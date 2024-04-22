@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "truong911",
+    "database": "geek",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 8811
+  },
+  "test": {
+    "username": "root",
+    "password": "truong911",
+    "database": "geek",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 8811
+  },
+  "production": {
+    "username": "root",
+    "password": "truong911",
+    "database": "geek",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 8811
+  }
+}
